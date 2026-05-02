@@ -1,0 +1,5 @@
+"Part","Quantity","Link","Notes"
+"PA1616 GPS Module","1","[Adafruit](https://www.adafruit.com/product/5186)",""
+"Limit switch","1","[LCSC](https://www.lcsc.com/product-detail/C2906291.html)","Order with the CH455 module"
+"20AWG Brass Wire","1","[AliExpress](https://www.aliexpress.us/item/3256806093878315.html)","0.8mm 10m. (about 20AWG) Or you can choose your own similar gauge or copper wire."
+"CH455 display/button Module","1","[Here](./CH455-PCB/README.md)","You must order and assemble this PCB yourself, see the linked README for instructions"
