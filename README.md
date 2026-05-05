@@ -11,9 +11,10 @@ I've recently been inspired by [Mohit Bhoite's](https://bhoite.com/sculptures/) 
 - Limit switch snooze button
 - 85dB 2.7khz buzzer for alarm sound
 - CH455 I/O expander for controlling the display and reading buttons
-## Assembly Overview
+## How to make it
 - Conslidated display + buttons + buzzer PCB using the CH455 I/O expander (see [CH455-PCB](./CH455-PCB/README.md) for details)
-- PDF assembly templates for freeform wire bending
+- [PDF assembly templates](./gps%20clock%20wiring%20template.pdf) for freeform wire bending
+- [Assembly guide](./ASSEMBLY.md) for step-by-step instructions on how to put everything together
 ## Code/Firmware
 See my dedicated [GitHub repository](https://github.com/Pasqalup/ch32_gps_clock) for firmware specifically for my CH32V003 board. It should be possible to port to other XIAO form factor boards with some work.
 ## Bill of Materials
@@ -26,3 +27,5 @@ See my dedicated [GitHub repository](https://github.com/Pasqalup/ch32_gps_clock)
 | Your choice of Seeed Studio XIAO microcontroller | 1 | [My CH32V003 Board](https://github.com/Pasqalup/CH32v003-MINI) | I only have code for my own CH32V003 board, but it should be possible to port to other XIAO form factor boards with some work. |
 ## Full Schematic
 ![image](./assets/SCH_Schematic1_1-P1_2026-05-02.png)
+## Fallout Zine
+[![image](./assets/gps_clock_zine.png)](./assets/gps_clock_zine.pdf)

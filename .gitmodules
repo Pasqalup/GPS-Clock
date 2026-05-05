@@ -1,3 +1,4 @@
+
 [submodule "ch32_gps_clock"]
 	path = ch32_gps_clock
-	url = https://github.com/Pasqalup/ch32_gps_clock
+	url = https://github.com/Pasqalup/ch32_gps_clock/
