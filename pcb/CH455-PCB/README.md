@@ -12,4 +12,4 @@ This is the part that actually has the display, buttons, and buzzer on it. Throu
 | 100nF Capacitor | 20 (MOQ) | [LCSC](https://www.lcsc.com/product-detail/C24452.html) | |
 
 ## Schematic
-![schematic](../assets/ch455-scj.png)
+![schematic](../../docs/ch455-scj.png)
